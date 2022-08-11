@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/name" >
+        <item
+            android:id="@+id/nameSort"
+            android:title="Sort By Name" />
+    </group>
+
+    <group android:id="@+id/age" >
+        <item
+            android:id="@+id/ageSort"
+            android:title="Sort By Age" />
+    </group>
+
+    <group android:id="@+id/city" >
+        <item
+            android:id="@+id/citySort"
+            android:title="Sort By City" />
+    </group>
+
+</menu>
